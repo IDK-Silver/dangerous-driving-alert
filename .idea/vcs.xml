@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/lib/Adafruit_BusIO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/Adafruit_MPU6050" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/Adafruit_Sensor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/ArtronShop_LineNotify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/ESP32Servo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/ToneESP32" vcs="Git" />
+  </component>
+</project>
